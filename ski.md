@@ -23,6 +23,9 @@
 * $75/85 for any guests after their 8th night
 * $150/170 for any guests after their 12th night (these types should have joined the cabin in the fall!)
 
+* Children and infants who are not yet teenagers are half price
+* Well behaved dogs are $20 per night
+
 * You the member are responsible for guest fees. Normally you need to be at the cabin the same day your guests are there.
 * For "unaccompanied guests" you must first email the group with your intention. If people feel uncomfortable or the cabin will be too crowded the unaccompanied guests should not be invited.
 * Payment for guest fees is by Venmo.
