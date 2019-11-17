@@ -1,0 +1,23 @@
+<!-- nav -->
+<script type="text/javascript"> 
+	$(document).ready(function() {
+	$("nav a").click(function( e ){
+	  e.preventDefault();
+	 // $("nav .active, #pages .active").removeClass("active");
+	  $("#pages .active").removeClass("active");
+	  $(this).add( $(this.hash) ).addClass("active");
+	});
+	 });
+</script> 
+
+<nav>
+  <ul>
+    <li><a href="#important_nav" class="active">Important</a></li>
+    <li><a href="#directions_nav" class="active">Directions</a></li>
+    <li><a href="#rules_nav" class="active">Rules</a></li>
+    <li><a href="#house_nav" class="active">House</a></li>
+    <li><a href="#recreation_nav" class="active">Recreation</a></li>
+    <li><a href="#ski_nav" class="active">Ski</a></li>
+    <li><a href="#skicalendar_nav" class="active">Ski Calendar</a></li>
+  </ul>
+</nav>

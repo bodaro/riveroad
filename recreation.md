@@ -1,0 +1,6 @@
+### Recreation around the house
+
+* There are hiking trails along the river that lead to a trail going up to the Tahoe Rim Trail. 
+* The house is close to the bike path that follows the river to Tahoe City and beyond. 
+* We are located at the entrance to Squaw Valley (the ski resort) directly on the river. 
+* It is 7 miles south of Truckee and 5 miles from Tahoe City (and Lake Tahoe).
