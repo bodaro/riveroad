@@ -7,21 +7,24 @@ Github public repo: `git clone https://github.com/bodaro/riveroad.github`
 Use markdown converter to make files into html: https://markdowntohtml.com/
 
 #### Install
-
+* Create a user on sonic.net and activate simple website hoisting
+  * Goto: https://members.sonic.net/websites/personal_web_hosting/
+  * Click activate _Mini Hosting_
 * `brew install duck`
 * `brew install pandoc`
 
-#### Convert md to html
+#### Programs
+##### Convert md to html
 `cat ski.md | pandoc -f gfm > ski.html`
 
-Convert all:
+##### Convert all
 `find ./ -iname "*.md" -type f -exec sh -c 'pandoc -f gfm "${0}" -o "./$(basename ${0%.md}.html)"' {} \;`
 
-#### FTP Files to server
+##### FTP Files to server
 
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.html`
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.ico`
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.css`
 
-#### bash script to do both
+#### Deploy
 `./deploy`
