@@ -12,19 +12,22 @@ The test is needed because most, if not all people, end up adding events to thei
 ##### About the calendar
 * In general when adding events, add the event as "all day" (otherwise is clutters up the calendar) 
 * Add and entry for each _day_ you will be there (not each night)
-  * For example, if coming for the weekend, select the Friday, Saturday and the Sunday.
+  * For example, if coming for the weekend, select the Friday, Saturday and the Sunday
+  * Make the event "all day" not a time period
 * Last year we had more than 1 event where people added themselves to their own calendar
   * As well as several events where people left themselves on the calendar (which causes other people not to bring their friends as they thought the cabin would be too full)
 * We have a policy where mis-calendared entries result in you achieving guest status
 * If you login with your gmail account you can visit [_Google calendars_](https://calendar.google.com/calendar/r "All Google calendars") to see the calendar
-* Or you can click the link on the group email (to follow) and maybe find the calendar in the google group web page also at [_Google group_](https://groups.google.com/forum/#!forum/truckee-river-cabin "Google group Truckee River Cabin")
+* Or you can click the link on the group email (to follow) and maybe find the calendar in the google group web page also at [_Google group_](https://groups.google.com/ "Google group")
 
 ##### Troubleshooting
 
 ###### Google Group
-The [_Google group_](https://groups.google.com/forum/#!forum/truckee-river-cabin "Google group Truckee River Cabin") is _Truckee River Cabin_ and is used for receiving emails. 
+The [_Google group_](https://groups.google.com "Google group") is used for receiving emails. 
 
-To access the group, _login_ to google and goto the above link. Once there, you can click on _something_ to have emails automatically sent to you _regular_ email address (otherwise the messages are just viewable in the group).
+To access the group, _login_ to google and search for out google group. Once there, you can click on _something_ to have emails automatically sent to you _regular_ email address (otherwise the messages are just viewable in the group).
+
+Note: I will have explicitly added you to the group and sent the group link in a separate email.
 
 ###### Calendar
 The calendar is separate from the group. I added each ski cabin member and you will have already received an invite.

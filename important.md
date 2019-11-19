@@ -2,6 +2,8 @@
 
 ##### Rules
 
+* Ski cabin members must use the calendar
+* Ski cabin members must clean up after themselves
 * Shower before using the hot tub
 * Drive slow on the road
 * Put garbage in the garage (not in the neighbor's _bear box_). Pick up all garbage. Don't leave your garbage from home here.
@@ -10,13 +12,13 @@
 * Pickup outside poop after your dog
 * No shoes in the house (especially wet shoes and boots)
 * Do not smoke on the property
-* The house is in the woods. There may be rodents and other animals on the grounds and in the house. There may be insects in the house. There are coyotes (which may eat your pets) and occasionally bears.
+* The house is in the woods. There may be rodents and other animals on the grounds and in the house. There may be insects in the house. There are coyotes (which may eat your pets) and occasionally there are bears in the area.
 * Make sure _all_ of your guests are aware of these items and the _Rules_ page.
 
 ##### Operations
 
 * WiFi is "canard"
-* Use the SONY remote to turn of/off the TV and to select input:
+* Use the SONY remote to turn on/off the TV and to select input:
   * __HDMI 1__: DISH TV
   * __HDMI 2__: the white _HDMI-Mini DVI_ cable (which you can connect to your computer)
   * __HDMI 3__: Apple TV (if available)
