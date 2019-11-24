@@ -20,7 +20,13 @@
 
 ##### Electrical
 
+* panel at top of stairs
+* panel in exterior hallway to back yard
+
 ##### Heating and AC
+
+* hot water  tank in garage. Maybe its the one to the right (north)
+* controls in hall closet
 
 ##### Floors
 

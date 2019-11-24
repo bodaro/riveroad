@@ -22,3 +22,9 @@
 * accent green in bedrooms
 * white trim
 * floor stain
+
+##### Devices
+
+* garage remote
+* HVAC controls
+* ethernet switch
