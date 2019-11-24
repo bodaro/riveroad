@@ -13,6 +13,7 @@
 * No shoes in the house (especially wet shoes and boots)
 * Do not smoke on the property
 * The house is in the woods. There may be rodents and other animals on the grounds and in the house. There may be insects in the house. There are coyotes (which may eat your pets) and occasionally there are bears in the area.
+* If you have dogs, you _must_ report that to me before booking. You _must__ crate them if you leave them alone (you must read the dogs section under House)
 * Make sure _all_ of your guests are aware of these items and the _Rules_ page.
 
 ##### Operations
@@ -31,6 +32,7 @@
   * Bottom button: select modes: flame height, fan and lightbulb
 * The dishwasher sometimes stops mid-way. Please check on it. Also, if you place dishes in front of the dishwasher flap door (the one that releases the soap) it will not clean.
 * Spare batteries are in the cupboard above the dryer (in the laundry room)
+* If the thermostat is locked, reove it and press the reset button on the back
 
 ##### Power Outage
 
@@ -44,4 +46,4 @@
 
 * There is a fire extinguisher to the left of the fireplace
 * There is a fire extinguisher in the laundry
-* If you call the fire department, make sure to them the we are "over bridge #2 and down river to the end of the road".
+* If you call the fire department, make sure to them the we are "over bridge #2 and down river to the end of the road" (otherwise they will go to bridge #8).

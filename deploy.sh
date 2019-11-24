@@ -19,12 +19,21 @@ if [ -z $USER ]; then
 fi
 
 echo "Converting markdown to HTML..."
-find ./ -iname "*.md" -type f -exec sh -c 'pandoc -f gfm "${0}" -o "./$(basename ${0%.md}.html)"' {} \;
+find ./ -maxdepth 1 -iname "*.md" -type f -exec sh -c 'pandoc -f gfm "${0}" -o "./$(basename ${0%.md}.html)"' {} \;
 
 echo "FTP'ing content to ftp.sonic.net..."
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/home/WWW_pages/${USER}/ ./*.html
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/home/WWW_pages/${USER}/ ./*.ico
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/home/WWW_pages/${USER}/ ./*.css
+
+echo "Deploying york"
+echo "Converting markdown to HTML..."
+find ./york -maxdepth 1 -iname "*.md" -type f -exec sh -c 'pandoc -f gfm "${0}" -o "./york/$(basename ${0%.md}.html)"' {} \;
+
+echo "FTP'ing content to ftp.sonic.net..."
+duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/home/WWW_pages/${USER}/york/ ./york/*.html
+duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/home/WWW_pages/${USER}/york/ ./york/*.ico
+duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/home/WWW_pages/${USER}/york/ ./york/*.css
 
 echo "Elapsed Time: $((($SECONDS / 60) % 60)):$(($SECONDS % 60))"
 exit 0

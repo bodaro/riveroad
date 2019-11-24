@@ -21,6 +21,7 @@ Use markdown converter to make files into html: https://markdowntohtml.com/
 `find ./ -iname "*.md" -type f -exec sh -c 'pandoc -f gfm "${0}" -o "./$(basename ${0%.md}.html)"' {} \;`
 
 ##### FTP Files to server
+Aliases/links: /home/WWW_pages/bodaro or usr/local/lib/WWW_pages/bodaro
 
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.html`
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.ico`

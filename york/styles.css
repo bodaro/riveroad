@@ -1,0 +1,24 @@
+nav li{
+  display: inline-block;
+  list-style: none;
+  padding: 10px;
+  font-size: 130%;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-family: "Arial", Sans-serif;
+}
+nav a.active{
+  display:block;
+}
+#pages > div{
+  display:none;
+}
+#pages .active{
+  display:block;
+}	
+
+a[target="_blank"]:after {
+    font-family:'Glyphicons Halflings';
+    font-size: 0.8em;
+    content: " \e164";
+}

@@ -73,12 +73,20 @@
 * The correct temperature when there is no one overnight at the house is to HOLD at 55 degrees. 
   * Press HOLD then press the numbers and then up/down arrows to set to 55 (see below).
 
-You can alter the current temperature in 2 ways using the touchscreen on the thermostat:
+###### You can alter the current temperature in 2 ways using the touchscreen on the thermostat:
 
   * OVERRIDE: When changing the set point, the top-row shows "OVERRIDE" and the newly set temperature will remain until the next program period (there are 4 program periods per day). 
   * HOLD: At any time you can press the HOLD button (in the lower left of the screen). This will display "HOLD" in the top row. This will keep the set point (not the current temperature but what it is set to) forever. View the set point by touching the number and noting the number displayed when it is flashing.
   * IMPORTANT: touch the number, and when it flashes (the flashing number is the set point) set the temperature using the up and down arrows. 
 
+###### Locked out?
+
+* If the thermostat displays _locked_ you can reset by:
+  * remove the thermostat from its plastic holding bracket (look for the tabs)
+  * press the rest button on the back of the thermostst
+  * put it back
+  * set the temperature
+  
 ##### Hot Tub
 
 * Please no more than 4 people in the hot tub at once
@@ -131,6 +139,12 @@ You can alter the current temperature in 2 ways using the touchscreen on the the
   * Even though many neighbor dogs come to this property, nonetheless, make sure to pick up any of _your_ dog's poops.
   * Be especially careful that your dogs do not poop on the neighbor's property. 
   * I realize that other neighborhood dogs will poop on the property, but that is no excuse for you to not pick up your dog's poops.
+* You must crate your dog if you leave it alone in the house. There are no exceptions here. 
+  * Beginning 2020 I will have a crate available in the garage
+  * In the past, dogs were left alone in a strange house (in the woods). Invariably they destroy something trying to espace.
+  * Typically they will scratch the doors, trim around the doors and doorjams.
+  * The cleaners will inspect closly for any damage and you will be responsible for re-sanding and staining the door and trim
+  * In the past dogs have also ripped up the kitchen floor (you will see the result of that when you enter the house). I don't appreciate this.
 
 ##### Lost and Found (for Airbnb)
 

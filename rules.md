@@ -46,4 +46,13 @@ The accordion door leads from this room directly to steps to the living room. Yo
 ##### Airbnb Checkin
 
 * Early checking is only available if there is no one staying at the house the night before the day of your reservation
-  * If you contact me close to the time I can tell you if someone has booked the house that night before
+  * You can determine this yourself by going to the airbnb site and attempting to reserve the house for the night before _your_ arrival
+  * if that day is free, early checkin may be available
+
+* Late checkout is only available if there is no one staying at the house the night you depart
+  * there is no late checkout on Sunday. This is because the cleaners union has stronghold of power for Sundays and we need to book sunday AM cleanings in advance and cannot cancel
+  * You can determine this yourself by going to the airbnb site and attempting to reserve the house starting on the day of _your_ departure
+  * if that day is free, late checkout may be available
+	
+* You _must_ contact me close to the time of arrival or departure to secure early checkin and late checkout (for many reasons)
+  
