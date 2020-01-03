@@ -28,4 +28,7 @@ Aliases/links: /home/WWW_pages/bodaro or usr/local/lib/WWW_pages/bodaro
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.css`
 
 #### Deploy
-`./deploy`
+-will convert files from md to html and ftp html, ico, css to the sonic website
+-you will need to suply the password for the sonic username
+
+`./deploy <sonic username>`
