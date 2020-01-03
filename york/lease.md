@@ -4,7 +4,7 @@ The purpose of this page is to give you an idea of the important items in the le
 
 #### Important Items to consider before making an appointment to view
 
-* Price $6250. Garage is available $200/month extra
+* Price $6250. Garage is available $250/month extra
 * Application through Zumper or Cozy for credit checks and rental history (they pay)
 * Payment each month through cozy or zumper? (my choice) and is ACH and no fee to them or me. Iff they add a fee in future they pay or setup direct ACH to my bank
 * Need to have $100k liability insurance (may come with contents insurance, renters policy)
@@ -13,7 +13,7 @@ The purpose of this page is to give you an idea of the important items in the le
 * That one person can talk to me anytime but arrange with text first
 * It has tons of light in the daytime, best seen before it gets dark
 * No pets, subletting or airbnb-style (unless you want to split the profit)
-* Must meet owner in person before seeing the lease. Dates are Friday Dec 27, early AM Sat Dec 28 or Thursday Jan 9 all day and evening
+* Must meet owner in person before seeing the lease. I am back Thursday Jan 9 all day and evening
 
 ##### Utilities
 
@@ -31,14 +31,14 @@ The purpose of this page is to give you an idea of the important items in the le
 Based on current consumptom these are utility estimates for the upstairs unit:
 
 * PGE: $100+ 
-* Water: $70
-	* Note: downstairs pays $80 now. Adding upstairs consumption $40 and for the lawn $20 =  140/2 is 70 each
+* Water: $100
+	* Note: estimated based on: downstairs pays $80 now. Adding upstairs consumption $80 and for the lawn $40 = 200/2 is 100 each
 * Garbage $23 each per month
-* Internet: $35.00
+* Internet: $37.50 each per month
 
 ##### Garage
 
-* $200 per month. Your own parking spot. Will fit medium SUV I think.
+* $250 per month. Your own parking spot. Will fit medium SUV I think.
 
 ##### Security Deposit
 
