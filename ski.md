@@ -104,3 +104,10 @@ These items require shovelling: (if its not done, I will hire someone and pay wi
   * Sunday February 16 to Monday February 17 at noon
 * Weekend guest rates are charged for the above holiday period
   
+##### Hot Tub Maintenance
+
+* We use the _IONX_ system which is the blue liquid. The idea is to use 10 oz of that liquid per week on Thursdays and then keep the chlorine at a low level. There is also a charcoal? filter inside the existing filter that is compatible with this system.
+* In the floater we use chlorine tablets (dichlorine or tri chlorine) not bromide. And we should keep 2 tablets in there at all times.
+* If there is heavier use we should also dump _some_ free chlorine granules to stave off dirty/smelly water (approx 1/4 cup per 4 people using the tub).
+* Also to note: there is a set of all required chemicals (and test strips) in a box in the master bedroom or master closet. Theres another set in the garage on a shelf.
+* Cherie has a special lightweight flexible hose in the garage that can be used to fill the tub. She can do it but requires assistance from one of you to open the lid.

@@ -13,3 +13,34 @@ The purpose of this page is to give you an idea of the important items in the le
 * That one person can talk to me anytime but arrange with text first
 * It has tons of light in the daytime, best seen before it gets dark
 * No pets, subletting or airbnb-style (unless you want to split the profit)
+* Must meet owner in person before seeing the lease. Dates are Friday Dec 27, early AM Sat Dec 28 or Thursday Jan 9 all day and evening
+
+##### Utilities
+
+* PG&E Estimate $100+
+
+##### Utilities split with downstairs
+* There is always your option to get your own of these and pay more (except water)
+* Internet v. fast 1Gbit
+* Garabge
+* Water (must be split with downstairs, no separate account)
+* Garden upkeep as negotiated with neighbor (and according to the CC&Rs)
+* Probably will involve raking some loquat tree leaves. See this: <a href="https://www.orlandosentinel.com/news/os-xpm-2007-03-25-orsimply25-story.html">loquat fruit</a>
+
+##### Current Utility Costs
+Based on current consumptom these are utility estimates for the upstairs unit:
+
+* PGE: $100+ 
+* Water: $70
+	* Note: downstairs pays $80 now. Adding upstairs consumption $40 and for the lawn $20 =  140/2 is 70 each
+* Garbage $23 each per month
+* Internet: $35.00
+
+##### Garage
+
+* $200 per month. Your own parking spot. Will fit medium SUV I think.
+
+##### Security Deposit
+
+* Latest move in Jan 31
+* 1 months rent. The place is new. Especially if you want a short term rental (but at least 1 month) it must be returned in similar condition (minus wear and tear of course). See here: <a href="https://www.bornstein.law/wp-content/uploads/2018/02/Downloads-Security-Deposit-Deduction-Guide.pdf">Security Deposit Deduction Guide</a>
