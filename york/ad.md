@@ -19,3 +19,9 @@
 * appliances including dishwasher, washer and dryer
 * window blinds and coverings
 
+##### Special
+
+* vaulted ceiling
+* kitchen island pendants
+* all glass is double paned with each pane a different thickness which reduces outside noise
+* shared walls are insulated with nose deadening insulation (quiet rock)
