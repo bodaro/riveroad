@@ -13,7 +13,7 @@ The purpose of this page is to give you an idea of the important items in the le
 * That one person can talk to me anytime but arrange with text first
 * It has tons of light in the daytime, best seen before it gets dark
 * No pets, subletting or airbnb-style (unless you want to split the profit)
-* No bikes in the house/stairwell or back yard (they must go in the garage and onkly if you rent the garage space)
+* No bikes in the house/stairwell or back yard (they can go in the garage if you rent the garage space)
 * Must meet owner in person before seeing the lease. I am back Thursday Jan 9 all day and evening
 
 ##### Utilities
