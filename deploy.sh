@@ -35,6 +35,8 @@ echo "FTP'ing content to ftp.sonic.net..."
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.html
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.ico
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.css
+duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.png
+duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.jpg
 
 echo "Elapsed Time: $((($SECONDS / 60) % 60)):$(($SECONDS % 60))"
 exit 0
