@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# you may need to create the directories yark and york/appliances on the FTP server
+
 set -e
 
 SECONDS=0
@@ -37,6 +39,7 @@ duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.css
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.png
 duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/ ./york/*.jpg
+duck -existing overwrite --upload ftps://${USER}@ftp.sonic.net/usr/local/lib/WWW_pages/${USER}/york/appliances/ ./york/appliances/*.jpg
 
 echo "Elapsed Time: $((($SECONDS / 60) % 60)):$(($SECONDS % 60))"
 exit 0

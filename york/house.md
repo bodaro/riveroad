@@ -26,7 +26,7 @@
 ##### Heating and AC
 
 * hot water  tank in garage. Maybe its the one to the right (north)
-* controls in hall closet
+* heat and AC controls in hall closet
 
 ##### Floors
 
@@ -49,7 +49,3 @@
 * Dry Cleaners
 
 ##### Dogs
-
-* You must crate your dog if you leave it alone in the house. There are no exceptions here. 
-  * In the past, dogs were left alone in a strange house (in the woods). Invariably they destroy something trying to espace.
-  * Typically they will scratch the doors, trim around the doors and doorjams.
