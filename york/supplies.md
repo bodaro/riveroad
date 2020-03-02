@@ -10,7 +10,7 @@
 <a href="appliances/kenmore steam dryer.jpg">Kenmore steam dryer</a></br>
 <a href="appliances/kitchen cabinet blue cleaner pen.jpg">Kitchen Cabinet Cleaner Pen</a></br>
 <a href="appliances/samsung gas slide in range.jpg">Samsung Gas slide in range</a></br>
-<a href="https://images-na.ssl-images-amazon.com/images/I/71-7cv3VKGL.pdf">Kidde Smorkre detectors</a></br>
+<a href="https://images-na.ssl-images-amazon.com/images/I/71-7cv3VKGL.pdf">Kidde hardwired Smoke detectors</a></br>
 ##### Lightbulbs
 
 * pot lights: Halo
