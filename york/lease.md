@@ -43,7 +43,7 @@ Based on current consumptom these are utility estimates for the upstairs unit (a
 
 ##### Garage
 
-* $250 per month. Your own parking spot. Will fit medium SUV I think. Plenty of space tohang bikes too.
+* $250 per month. Your own parking spot. Will fit medium SUV I think. Plenty of space to hang bikes too.
 
 ##### Security Deposit
 
