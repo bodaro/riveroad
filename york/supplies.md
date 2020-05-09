@@ -11,6 +11,7 @@
 <a href="appliances/kitchen cabinet blue cleaner pen.jpg">Kitchen Cabinet Cleaner Pen</a></br>
 <a href="appliances/samsung gas slide in range.jpg">Samsung Gas slide in range</a></br>
 <a href="https://images-na.ssl-images-amazon.com/images/I/71-7cv3VKGL.pdf">Kidde hardwired Smoke detectors</a></br>
+<a href="appliances/irritrol_rain_dial_sprinkler_system_april_2020.jpg">Irritrol sprinkler system</a></br>
 ##### Lightbulbs
 
 * pot lights: Halo
