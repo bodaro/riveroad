@@ -4,8 +4,7 @@ River Road Website
 #### OVERVIEW
 First install and then goto deploy section.
 The other sections are just info about what deploy does.
-Use this PAT for github access (use it on the command line in place of the password)
-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
+Use a PAT for github access (use it on the command line in place of the password)
 
 ## Ski Cabin and Airbnb [Website](http://<user>.users.sonic.net/ "River Road Website")
 
