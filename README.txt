@@ -1,6 +1,10 @@
 # riveroad
 River Road Website
 
+#### OVERVIEW
+First install and then goto deploy section.
+The other sections are just info about what deploy does.
+
 ## Ski Cabin and Airbnb [Website](http://<user>.users.sonic.net/ "River Road Website")
 
 Github public repo: `git clone https://github.com/bodaro/riveroad.github`
@@ -23,12 +27,13 @@ Use markdown converter to make files into html: https://markdowntohtml.com/
 ##### FTP Files to server
 Aliases/links: /home/WWW_pages/bodaro or usr/local/lib/WWW_pages/bodaro
 
+NOTE: the URLs here are incorrect, see deploy.sh for the correct path to use with sonic
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.html`
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.ico`
 `duck -existing overwrite --upload ftps://ftp.sonic.net/home/WWW_pages/<user>/ ~/*.css`
 
 #### Deploy
 -will convert files from md to html and ftp html, ico, css to the sonic website
--you will need to suply the password for the sonic username
+-you will need to supply the password for the sonic username
 
 `./deploy <sonic username>`

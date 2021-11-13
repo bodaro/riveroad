@@ -8,8 +8,8 @@ After the guests leave ensure the following:
   * shades drawn
   * doors locked
 
-* kitchen knives: big knife, bread knife, medioum knife, small knife
-  * no damage to kichen table and chairs
+* kitchen knives: big knife, bread knife, medium knife, small knife
+  * no damage to kitchen table and chairs
   * no damage to living room couches
 
 * living room:
@@ -17,12 +17,12 @@ After the guests leave ensure the following:
   * pillows: 2 yellow/white and 2 blue
 
 ##### Ensure
-1. Replenish Supplies: master bedroom closet contains supplies. Make sure there is enough supplies for the guests. Bathroom supplies can be left in the middle closet/shelf of each bathroom. Kitchen supplies (including garbage bags) can be left under the kitchen sink. If you want to leave extra supplies that dont fit in the klitchen or bathrooms then leave those supplies on the bottom shelves of the hallway closet. The rest should be locked up in the master bedroom closet.
+1. Replenish Supplies: master bedroom closet contains supplies. Make sure there is enough supplies for the guests. Bathroom supplies can be left in the middle closet/shelf of each bathroom. Kitchen supplies (including garbage bags) can be left under the kitchen sink. If you want to leave extra supplies that dont fit in the kitchen or bathrooms then leave those supplies on the bottom shelves of the hallway closet. The rest should be locked up in the master bedroom closet.
 2. Close all blinds (except the large window in the living room). Turn off all lights. Leave the light switch for the front outside on. This is the switch near the front door (on the inside). The switch should be up.
-3. Place sheets: master should have 2 queen sets. Front bedroom 1 queen set. All the rest fo the queen sheets go into drawer in front bedroom. Bunk room has 1 double sheet set out and 2 single sets set out on the top bunk. The reamining single and fouble sets can go into the closet inthe bunk room.
+3. Place sheets: master should have 2 queen sets. Front bedroom 1 queen set. All the rest fo the queen sheets go into drawer in front bedroom. Bunk room has 1 double sheet set out and 2 single sets set out on the top bunk. The remaining single and double sets can go into the closet in the bunk room.
 4. Towels: can go into each bathroom. extras go into the hall closet. Make sure soap, toilet paper, shampoo and conditioner in bathrooms.
 5. Reset thermostats to 55. There is one thermostat in master and one in living room. All functions are done on the display screen. Click/press the temperature, when its flashing click the up/down arrows next to temperature to set to 55. Then press the "HOLD" button in bottom left corner until HOLD appears in the top right corner.
-6. Take down garbage and recycling to bins in garage. For special weeks (when ternants are not here) please take garbage to the dump.
+6. Take down garbage and recycling to bins in garage. For special weeks (when tenants are not here) please take garbage to the dump.
 7. Check for damage: Check all "good" knives in the block. Check couches, dining room table and chairs for damage.
 8. Check the hot tub.  If it looks dirty let me know by text message.
 9. Lock Up: Lock the Master bedroom closet: your master key locks this door. Make sure its locked before leaving (even if you didnt open it). Lock the door to the laundry.
@@ -45,8 +45,8 @@ After the guests leave ensure the following:
 * You can use the laundry detergent labelled "W&B" (thats the renting company, Wells and Bennet) or the detergent on the bottom shelf (in the cupboard above the washing machine).
 * Please clean the gas BBQ
 * If hot tub looks dirty or is low on water please let me know and Ill have my guy come out
-* check propane tank for the Gas BBQ (it has a gauage and or if no gauage then if its really light it needs filling)
-* make sure there are supplies for paper towels, toilet paper, soap, garbage bags, liquid hand soap, recycling bags, dishwasher soap in the hallway closet (in addition to the middle cupboard in each bathrtoom). So, supplies ion case we run out for the guests are in the hall closet. there is another set of supplies for you to use (and replenish in the bathrooms, kitchen and the hall closet) in the master closet.
+* check propane tank for the Gas BBQ (it has a gauge and or if no gauge then if its really light it needs filling)
+* make sure there are supplies for paper towels, toilet paper, soap, garbage bags, liquid hand soap, recycling bags, dishwasher soap in the hallway closet (in addition to the middle cupboard in each bathroom). So, supplies ion case we run out for the guests are in the hall closet. there is another set of supplies for you to use (and replenish in the bathrooms, kitchen and the hall closet) in the master closet.
 * take away trash
 
 * putting out the correct number of towels, 
@@ -72,11 +72,11 @@ After the guests leave ensure the following:
 * Clean
 
 
-##### Thermoststs
+##### Thermostats
 
 * Check both thermostats. If either is locked, reset it
   * reset by taking it off the wall, and pushing the reset button on the back
-  * then set tmperatre to 55
+  * then set temperature to 55
 
 ##### Supply list
 
@@ -89,7 +89,7 @@ After the guests leave ensure the following:
 * Kitchen under sink:
   * blue recycle bags
   * white kitchen bags
-  * dishsoap
+  * dish soap
   * sponges
   * dishwasher detergent
 	
@@ -106,6 +106,6 @@ After the guests leave ensure the following:
 ##### Hot Tub
 
 * Ensure 3 tablets of chlorine int he floater
-* Ensure blue liquid is added weekly
+* Ensure frog system is replaced every 6 weeks or so
 * check levels and adjust ph as needed
 * Leave at 104

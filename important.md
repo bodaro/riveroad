@@ -32,12 +32,12 @@
   * Bottom button: select modes: flame height, fan and lightbulb
 * The dishwasher sometimes stops mid-way. Please check on it. Also, if you place dishes in front of the dishwasher flap door (the one that releases the soap) it will not clean.
 * Spare batteries are in the cupboard above the dryer (in the laundry room)
-* If the thermostat is locked, reove it and press the reset button on the back
+* If the thermostat is locked, remove it and press the reset button on the back
 
 ##### Power Outage
 
 * The generator should kick in automatically.
-  * If not, there is a _power out bag_ in the laundry on one of the lower shelves.
+  * If not, look in the tall laundry cupboard on one of the lower shelves for candles.
 * The furnace and hot water do require electricity to run.
 * However, the fireplace _can_ run with just propane.
   * To run the fireplace, make sure the battery box has fresh batteries and use the remote to start the fireplace.

@@ -2,7 +2,7 @@
 
 ##### General
 
-* Lease is 5PM December 01, 2019 through and including 5PM May 31, 2020
+* Lease is midnight December 01, 2021 through and including 5PM May 31, 2022
   * Mid-Week is noon Sunday to 6PM Friday each and every week
 * Use Venmo for guest fees.
 * Calendar: Always use it and keep it accurate. Others are relying on the accuracy of people's plans.
@@ -12,16 +12,16 @@
   * The golden rule is "people who have used the preferred rooms more than others should give up their rooms when other members arrive"
 * Never leave anything (especially a shovel) in the driveway. 
   * It will get buried in snow and the plow will hit it and break and give us a costly bill. 
-  * Always put shovels back (as some are Cherie's and she needs to be able to find it).
+  * Always put shovels back.
 * There is a key for you on a keyring or in a red plastic bowl in the top drawer in the kitchen.
  
 ##### Guest Fees
 
-* $35/45 (weekends and holidays). 
-* $55/65 for unaccompanied guests
-* $55/65 for any guests after their 5th night
-* $75/85 for any guests after their 8th night
-* $150/170 for any guests after their 12th night (these types should have joined the cabin in the fall!)
+* $45/55 (weekends and holidays). 
+* $65/75 for unaccompanied guests
+* $65/75 for any guests after their 5th night
+* $85/95 for any guests after their 8th night
+* $160/180 for any guests after their 12th night (these types should have joined the cabin in the fall!)
 
 * Children and infants who are not yet teenagers are half price
 * Well behaved dogs are $20 per night
@@ -29,7 +29,7 @@
 * You the member are responsible for guest fees. Normally you need to be at the cabin the same day your guests are there.
 * For "unaccompanied guests" you must first email the group with your intention. If people feel uncomfortable or the cabin will be too crowded the unaccompanied guests should not be invited.
 * Payment for guest fees is by Venmo.
-* FYI: Regular members aod $2000 plus $282 deposit. Mid-week paid $1600 plus $282 deposit. Pets are $150
+* FYI: Regular members paid $2375 plus $375 deposit. Mid-week paid $1900 plus $375 deposit. Pets are $200. Despite what your agreement may say.
 
 ##### House
 
@@ -44,9 +44,9 @@
 * Do not leave things in dryer after you leave. 
   * Put away any house linens you or your guests may use.
 
-##### Snow shovelling
+##### Snow shoveling
 
-These items require shovelling: (if its not done, I will hire someone and pay with the guest fees):
+These items require shoveling: (if its not done, I will hire someone and pay with the guest fees):
 
   * Access to the Propane Tank: just enough so the guy can get access to the top to fill it.
   *	Clear both decks
@@ -74,7 +74,7 @@ These items require shovelling: (if its not done, I will hire someone and pay wi
   
 * During your stay:
   * Wash your dishes as you go (do not leave them in the sink and then go off skiing)
-  * If you put even a single item in the dishwasher you are resonsible for unloading _all_ items and putting them away
+  * If you put even a single item in the dishwasher you are responsible for unloading _all_ items and putting them away
 
 ##### Kitchen and Bath
 
@@ -83,7 +83,7 @@ These items require shovelling: (if its not done, I will hire someone and pay wi
 * Please: close caps on toothpaste, leave toilet paper on rolls, dont leave dishes in the sink, use blue recycling bags whenever possible and if you use the dishwasher, empty it. 
 * If you have laundry, dry it and put it away. Put away your stuff. Put away any house sheets or towels.
 * Blankets are in each bedrooms' closets (and extras in the master bedroom closet)
-* Don't put plates on right side dishrack (as it blocks the cupboard from opening)
+* Don't put plates on right side dish-rack (as it blocks the cupboard from opening)
 * The vacuum works. You need to release the unit to get the brushes to spin
 
 ##### Garage and Ski gear
@@ -93,21 +93,20 @@ These items require shovelling: (if its not done, I will hire someone and pay wi
 * Please clean the workbench after using it
 * Store your boots on the shelves in the back of the garage
 * To dry your boots, use a dryer in the garage
-* To keep them warn, you can bring rthe boots to the laundry room overnight (but not into the house)
+* To keep them warn, you can bring the boots to the laundry room overnight (but not into the house)
 
 ##### Ski Cabin Mid-Week  and Guest Days
 
 * Mid-Week is noon Sunday to 6PM Friday each week
 * The mid-week cabin is not available during these holidays:
   * December 25 at 5PM to January 1 at noon
-  * Sunday January 19 to Monday January 20 at noon
-  * Sunday February 16 to Monday February 17 at noon
+  * Sunday January 16 to Monday January 17 at noon
+  * Sunday February 21 to Monday February 22 at noon
 * Weekend guest rates are charged for the above holiday period
   
 ##### Hot Tub Maintenance
 
-* We use the _IONX_ system which is the blue liquid. The idea is to use 10 oz of that liquid per week on Thursdays and then keep the chlorine at a low level. There is also a charcoal? filter inside the existing filter that is compatible with this system.
-* In the floater we use chlorine tablets (dichlorine or tri chlorine) not bromide. And we should keep 2 tablets in there at all times.
+* We use the _FROG_ system which is 2 canisters that float in the tub.
 * If there is heavier use we should also dump _some_ free chlorine granules to stave off dirty/smelly water (approx 1/4 cup per 4 people using the tub).
 * Also to note: there is a set of all required chemicals (and test strips) in a box in the master bedroom or master closet. Theres another set in the garage on a shelf.
-* Cherie has a special lightweight flexible hose in the garage that can be used to fill the tub. She can do it but requires assistance from one of you to open the lid.
+* There is a special lightweight flexible hose in the garage that can be used to fill the tub.

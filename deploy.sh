@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# you may need to create the directories yark and york/appliances on the FTP server
+# you may need to create the directories york and york/appliances on the FTP server
 
 set -e
 

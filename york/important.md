@@ -3,7 +3,7 @@
 ##### Rules
 
 * No smoking
-* Report damamge immediately
+* Report damage immediately
 * Garbage is collected Tuesday morning
 * No noise after midnight
 * Do not smoke on the property
