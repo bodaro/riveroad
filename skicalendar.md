@@ -4,7 +4,7 @@
 
 Each cabin member _must_ enter a test event on the shared calendar. I will check the calendar and after a couple of days, if I dont see your event I will bug you via email or text asking you to add it. 
 
-_Please add yourself to the calendar for Monday Dec 2._
+_Please add yourself to the calendar for Dec 2._
 _Please select "all day"._
 
 The test is needed because most, if not all people, end up adding events to their default calendar instead of the ski cabin calendar.
