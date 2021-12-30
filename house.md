@@ -35,17 +35,16 @@
 
 ##### Internet
 
-* The wifi is _canard_ and there is no password. If that is down, try resetting the 2 _ATT modems_ and then the _wifi router_ (the box with the 3 antennas).
+* The wifi is _duck_ and there is no password. If that is down, try resetting the 2 _ATT modems_ which are _mallard_ and _goose_.
 * If canard is not working you can try mallard and goose
   * Each of those are the direct wifi signals from the 2 ATT modems
   * The ATT modems are located in the living room
-  * The 3-antenae router is a _WAN Router_ and allows us _all_ to share the signal of both ATT Modems
 
 ##### Lights and Switches
 
 * Living room lights and fans switches are located to the right of the big window.
 * There is a thermostat in the living room and master bedroom. 
-  * The heat is _hrdronic_ and takes a while to come up to speed
+  * The heat is _hydronic_ and takes a while to come up to speed
 * Dining table lights to the right of the garbage disposal switch which is to the right of the _kitchen_ sink.
 * There are 2 hall light switches.
 * There is a switch for the outdoor lights near the sliding glass door in the living room
@@ -134,17 +133,24 @@
 
 ##### Dogs
 
-* For Airbnb and guest dogs: Dogs are $20 per dog per night.
+* For Airbnb and ski cabin guest dogs: Dogs are $20 per dog per night.
+* Guest dogs are generally discouraged, however, we do understand that occasionally a situation warrants inviting a guest dog.
 * Do not allow your dogs to wander off the property, 
   * Even though many neighbor dogs come to this property, nonetheless, make sure to pick up any of _your_ dog's poops.
+  * It is suggested that dog owners continually monitor the property/driveway for poop. Please be mindful all dog owners share this task.
   * Be especially careful that your dogs do not poop on the neighbor's property. 
   * I realize that other neighborhood dogs will poop on the property, but that is no excuse for you to not pick up your dog's poops.
 * You must crate your dog if you leave it alone in the house. There are no exceptions here. 
-  * Beginning 2020 I will have a crate available in the garage
+  * Any crated dog must not make noise or bark in distress, as this is unreasonable in shared space.
   * In the past, dogs were left alone in a strange house (in the woods). Invariably they destroy something trying to espace.
   * Typically they will scratch the doors, trim around the doors and doorjams.
-  * The cleaners will inspect closly for any damage and you will be responsible for re-sanding and staining the door and trim
+  * The cleaners will inspect closely for any damage and you will be responsible for re-sanding and staining the door and trim
   * In the past dogs have also ripped up the kitchen floor (you will see the result of that when you enter the house). I don't appreciate this.
+* Guest dogs must have an agreeable temperament that aligns well with other dogs, there are typically member dogs who are at the house. 
+* Dog capacity for any time is 3 dogs. This means that if all three member dogs are on property then there is no space for guest dogs.
+* Guest dogs must be on the schedule, and the ski lease member and/or their owner must coordinate their stay with member dog’s owners that are on the calendar for said stay.
+* If any dog destroys property the member will be liable for damages.
+* It is preferred that all dogs coming to the house are no longer in the puppy stage of life, as puppies tend to have more behavior challenges.
 
 ##### Lost and Found (for Airbnb)
 
